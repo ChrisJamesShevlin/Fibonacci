@@ -6,9 +6,9 @@ from matplotlib.animation import FuncAnimation
 
 mydb = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'Uia86w!md',
-    'database': 'fibonacci',
+    'user': '****',
+    'password': '*******',
+    'database': '*******',
 }
 
 # Establish a connection to the MySQL database
